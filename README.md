@@ -16,4 +16,4 @@ Setup Instructions
 6. Enjoy the game
 
 
-Referenced by using ImKennyYip's code and adding features for further improvement
+Referenced by using ImKennyYip's code and changing and adding features for further improvement
